@@ -13,8 +13,6 @@ Follow How to run section to see this virtual assistant in action. It is super e
 - OpenCV
 - Sqlite3
 
-# System Architecture
-<img src='assets/sys_arch.png'>
 
 # Sample output
 
