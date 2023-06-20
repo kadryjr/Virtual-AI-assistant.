@@ -54,10 +54,3 @@ Just run the 'Virtual_assistant_notebook.ipynb' notebook in the main folder of t
 
 4. The bot will show the results of your query and generate an animated face video with it's voice.
 
-# Acknowledgements
-
-1. NVIDIA Flowtron - https://github.com/NVIDIA/flowtron
-2. Joint BERT - https://github.com/monologg/JointBERT
-3. Speech Recognition python library - https://github.com/Uberi/speech_recognition
-  
-Virtual-AI-assistant was made possible because of the repositories mentioned above!
